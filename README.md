@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Interactive Rating Component Screenshot](/images/sc1.png)
-![Interactive Rating Component Screenshot](/images/sc2.png)
+![Interactive Rating Component Screenshot](./images/scStart.png)
+![Interactive Rating Component Screenshot](./images/scRate.png)
 
 ## Links
 
